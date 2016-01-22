@@ -13,3 +13,6 @@ this steps just simple hint to use this project inside your project just follow 
 - Likewise create few more fragment activities with same code we used for OneFragment.java. I have created TwoFragment.java, ThreeFragment.java
 - Open the layout file of main activity (activity_main.xml) and add Tab attributs 
 - Open MainActivity.java and do some changes changes.
+
+# ScreenShot
+![alt tag](https://github.com/MostafaAnter/Tabs/blob/master/device-2016-01-22-220910.png)
